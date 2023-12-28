@@ -61,8 +61,10 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```
-![image](https://github.com/gokulprakash23013924/QRdecomposition/assets/150231472/3973310a-f4f9-4ed0-b69d-6ca0ee526c97)
+
+
+![Screenshot 2023-12-28 140534](https://github.com/gokulprakash23013924/QRdecomposition/assets/150231472/78d33f27-208c-4c86-aeb1-6221d56f1ec1)
+
 
 
 ```
